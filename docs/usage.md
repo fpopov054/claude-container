@@ -19,3 +19,4 @@ Notes and usage details for claude-container.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- link the usage section
