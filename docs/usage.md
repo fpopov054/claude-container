@@ -59,3 +59,4 @@ Notes and usage details for claude-container.
 - clarify the setup steps
 - clarify the setup steps
 - clarify the setup steps
+- link the usage section
